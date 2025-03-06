@@ -1,0 +1,6 @@
+r (okuma): Dosyayı okuma modunda açar. Dosya yoksa hata verir.
+w (yazma): Dosyayı yazma modunda açar. Dosya varsa içeriğini siler, yoksa yeni bir dosya oluşturur.
+a (ekleme): Dosyayı ekleme modunda açar. Dosya varsa sonuna ekleme yapar, yoksa yeni bir dosya oluşturur.
+x (oluşturma): Dosyayı oluşturma modunda açar. Dosya zaten varsa hata verir.
+b (binary): Dosyayı ikili (binary) modda açar. (Örneğin, resim veya video dosyaları için kullanılır.)
+t (text): Dosyayı metin modunda açar. (Varsayılan moddur, belirtilmese de geçerlidir.)

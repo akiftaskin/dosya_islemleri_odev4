@@ -1,0 +1,3 @@
+Selam, 4. Ödev - Veri Bilimi 
+"remove" komutu dosyayı silmemesi için buraya ekliyorum.
+6 Mart 2025
